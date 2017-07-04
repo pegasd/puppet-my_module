@@ -1,0 +1,20 @@
+{
+  "name": "pegas/my_module",
+  "version": "0.1.0",
+  "author": "pegas",
+  "summary": "Test package purging",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pegasd/puppet-my_module",
+  "project_page": "https://github.com/pegasd/puppet-my_module",
+  "issues_url": "https://github.com/pegasd/puppet-my_module/issues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "dependencies": [
+  ]
+}
